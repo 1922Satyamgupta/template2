@@ -45,5 +45,12 @@ background-color: #04AA6D;
     background-color:grey;
     color: white;
     text-align: right;
- 
+ }
+.content{
+    text-align: justify; 
+    height:500px;
+    margin-bottom: 100px; 
+    margin-left: 20px; 
+    margin-top: 20px; 
+    margin-right: 35px;
 }
