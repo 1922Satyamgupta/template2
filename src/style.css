@@ -30,3 +30,9 @@ background-color: #111;
 .active {
 background-color: #04AA6D;
 } 
+#main{
+    background-color: white;
+      float: left;
+      width: 67%;
+      margin-right: 15px;
+}
