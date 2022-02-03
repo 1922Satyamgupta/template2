@@ -65,3 +65,13 @@ background-color: #04AA6D;
     margin-left: 20px; 
     margin-bottom: 30px;
 }   
+ .content h1{
+      color: rgb(57, 28, 116);
+ }
+ .footer p{
+      margin-right: 90px;
+ }
+ #side{
+   padding:6px ; 
+   margin-right: 10px;
+}
